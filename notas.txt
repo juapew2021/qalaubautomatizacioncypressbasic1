@@ -21,3 +21,8 @@ Operaciones Matematicas:
 
 Suma:
 2+2 = 4
+
+colores en ingles:
+rojo : red
+azul: blue 
+:D
