@@ -16,3 +16,8 @@ Frase del día:
 * El que no nace para servir no sirve para vivir
 * Fusita el pueblito mas lindo
 * Maria ama a sus 2 metros con 10
+
+Operaciones Matematicas:
+
+Suma:
+2+2 = 4
