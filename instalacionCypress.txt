@@ -1,0 +1,20 @@
+
+ // * Cypress framework de automatizacion WEB.
+ 
+
+  Aqui explicamos como descargar la pagina WEB de pruebas " Cypress ".
+  Buscamos la documentacion en la paginna principal, y desde alli tendremos los comandos necesarios para
+  desde nuestra consola en el VS Code poder configurar y crear nuestra WEB de prubas.
+
+  Primero creamos una carpeta con el nombre " cypress " y con el comando (cd) nos acomodamos dentro de ella.
+
+  Acto seguido aplicamos el comando (npm init -y) que nos creara el package.json.
+
+  Con el comando (npm install cypress --save-dev) indica que se instalara en modo desarrollador.
+  nos creara dos nuevos archivos que seran la carpeta " node_modules" y el package-lock.json.
+
+  Para poner en marcha la ejecucion usamos el comando (npx cypress open) al abrirse nos permite elegir entre opciones del testing,
+  el navegdor donde queramos hacerlo y crear o ver archivos que sirvan como ejemplo.
+
+  De esta manera ya podriamos modificar el archivo que se encuentre dentro del tipo que hayamos elegido nosotros,
+  en este caso seria, e2e.
