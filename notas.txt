@@ -1,0 +1,3 @@
+Herramientas necesarias para empezar automatizar:
+1. Crear cuenta de Github
+2. Descargar instalr Github Desktop
