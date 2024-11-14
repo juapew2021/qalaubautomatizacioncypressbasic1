@@ -18,3 +18,4 @@ describe('registro en buggy', () => {
 
   })
 })
+
