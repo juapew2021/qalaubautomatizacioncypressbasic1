@@ -1,0 +1,18 @@
+* XPATH una forma diferente de identificar elementos.
+
+ // Algunas maneras de las abrir herramientas de desarrollo.
+
+ - Ctrl + Shift + l.
+ - Oprimimos el click derecho y vamos hasta la ultima opcion que se llama " Inspeccionar ".
+ - Vamos a la barra de herramientas que se encuentra en el costado superior derecho clicamos y vamos donde dice " Mas herramientas ".
+   luego al final tendremos la opcion que se llama " Herramientas para desarrolladores ".
+
+
+   Las herramientas Xpath nos permiten identificar de manera rapida y practica elementos de una pagina o programa
+   inspeccionandolo desde la consola, apartir de cierta metodologia con simbolos. 
+
+   Normalmente en la barra de busqueda de la consola de inspeccion de cada pagina se usa el simbolo (//)
+   Despues de su aplicacion ya empezamos a describir la expresion para buscar el elemento que deseamos.
+
+   Con el comando (npm install cypress -D cypress-xpath) podemos descargar el Xpath y asi pueda funcionar dentro de la aplicacion cypress.
+   una vez instalado se crea el comando .xpath() que sera un metodo para hacer de diferente manera el mismo trabajo.
